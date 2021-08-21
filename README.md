@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anthony
-- 👀 I’m interested in programming, music producing, cooking!
-- 🌱 I’m currently learning Web development,
-- 💞️ I’m looking to collaborate on LHL web development bootcamp!
+- 👀 I’m interested in programming, music production, cooking!
+- 🌱 I’m currently learning Web development!
+- 💬 Stacks : HTML, CSS, JAVASCRIPT, SQL, REACT, JQUERY, EXPRESS
 - 📫 How to reach me : 
 emial : fbssaejun@gmail.com
 discord: Anthony#2788
