@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Anthony
-- 👀 I’m interested in programming, music production, cooking!
-- 🌱 I’m currently learning Web development!
+- 🌱 Web development
 - 💬 Stacks : HTML, CSS, JAVASCRIPT, SQL, REACT, JQUERY, EXPRESS
 - 📫 How to reach me : 
 emial : fbssaejun@gmail.com
